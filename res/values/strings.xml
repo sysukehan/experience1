@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">第一次作业</string>
+    <string name="text1">Welcome to First Android Class</string>
+    <string name="hint">Input your user account here</string>
+    <string name="user">User: </string>
+    <string name="password">Password: </string>
+    <string name="button1">Login</string>
+    <string name="button2">Register</string>
+
+</resources>
